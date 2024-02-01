@@ -1,2 +1,6 @@
 venv/
 .streamlit/secrets.toml
+*.bin
+*.pickle
+*.sqlite3
+*.pyc
