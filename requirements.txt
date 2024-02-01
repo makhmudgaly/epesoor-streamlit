@@ -12,3 +12,5 @@ kaleido
 python-multipart
 chromadb
 langchain-openai
+llama-index
+nltk
