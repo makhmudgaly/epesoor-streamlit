@@ -1,2 +1,14 @@
 streamlit
 openai
+pypdf
+cohere
+langchain
+python-dotenv
+tiktoken
+unstructured
+pdf2image
+pdfminer
+kaleido
+python-multipart
+chromadb
+langchain-openai
