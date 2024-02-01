@@ -12,3 +12,4 @@ kaleido
 python-multipart
 chromadb
 langchain-openai
+pysqlite3-binary
